@@ -1,4 +1,4 @@
-# Jira AI Agent — Story & Test Case Generator (Commented Edition)
+# Jira AI Agent — Story & Test Case Generator 
 
 This is a **fully commented** and slightly refactored scaffold of the original “Jira-AI-Agent-Demo” project. 
 It implements an AI-powered workflow that turns Jira Epics (or mock feature JSON) into **user stories** 
