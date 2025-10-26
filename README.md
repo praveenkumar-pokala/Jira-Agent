@@ -1,11 +1,10 @@
 # Jira AI Agent — Story & Test Case Generator 
 
-This is a **fully commented** and slightly refactored scaffold of the original “Jira-AI-Agent-Demo” project. 
+ 
 It implements an AI-powered workflow that turns Jira Epics (or mock feature JSON) into **user stories** 
 (with acceptance criteria and story points) and **test cases** (preconditions, steps, expected results).
 
-> Why this edition?  
-> The goal is educational clarity. Every part of the backend has rich comments and docstrings so you can quickly understand how it works, extend it, or fork it for your org.
+
 
 ## Highlights
 
