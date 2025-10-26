@@ -1,0 +1,14 @@
+[
+  {
+    "id": "F-001",
+    "key": "EPIC-101",
+    "title": "User Authentication",
+    "description": "Login + Register + Reset"
+  },
+  {
+    "id": "F-002",
+    "key": "EPIC-102",
+    "title": "Payment Processing",
+    "description": "Credit card + wallets"
+  }
+]
